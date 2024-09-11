@@ -1,5 +1,5 @@
-# Student name
-# Current date
+# Ethan Lawrence
+# september 11 2024
 # String Concatenation in Python
 
 # Example 1
@@ -33,7 +33,7 @@ last_name = "Jenkins"
 # Remember to add a blank space to make output
 # look nice
 
-fullName = first_name + last_name
+fullName = first_name + " " + last_name
 
 # fullName = first_name + " " + last_name
 
